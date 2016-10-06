@@ -1,0 +1,2 @@
+# bastaki
+Hello world repository)
